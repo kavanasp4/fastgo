@@ -1,0 +1,2 @@
+# fastgo
+go to home
